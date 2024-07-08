@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Somto
+- 👋 Hello World! I’m Somto
 - 👀 I’m interested in programming and problem solving
 - 🌱 I’m currently pursuing my software engineering degree
 - 💞️ I’m looking to collaborate on various project to expand my knowledge
