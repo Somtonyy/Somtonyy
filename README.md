@@ -1,6 +1,6 @@
 - 👋 Hello World! I’m Somto
 - 👀 I’m interested in programming and problem solving
-- 🌱 I’m currently pursuing my software engineering degree
+- 🌱 I’m currently pursuing my software engineering degree at the University of New Brunswick
 - 💞️ I’m looking to collaborate on various project to expand my knowledge
 - 📫 You can reach me on Instagram: @somtonyy
 - 😄 Pronouns: He/Him
